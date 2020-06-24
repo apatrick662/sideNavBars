@@ -5,3 +5,8 @@
 .navBarList {
     list-style-type: none;
 }
+
+.sideBar li {
+    color: red;
+}
+
